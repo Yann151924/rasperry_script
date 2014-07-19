@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 #Modifié pour fermer le prog au bout de 2 fois UPDATE_INTERVAL
+#
+# from original RPi sysinfo.py
+# Switch actions from:
+# http://piface.github.io/pifacecad/example.html
+# http://raspberrypi.stackexchange.com/questions/381/how-do-i-turn-off-my-raspberry-pi
 import sys
 import subprocess
 from time import sleep
