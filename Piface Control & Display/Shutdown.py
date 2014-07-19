@@ -1,4 +1,4 @@
-#A l'extinction lancement d'un serive qui affiche un message d'arret puis clean de l'ecran
+#A l'extinction lancement d'un service qui affiche un message d'arret puis clean de l'ecran
 import pifacecad as p
 from time import sleep
 cad = p.PiFaceCAD()
