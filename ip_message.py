@@ -1,4 +1,5 @@
 #Programme permettant l'envoie d'un mail contenant l'adresse ip publique/externe de votre reseau
+#L'envoie de mail est relayé par le smtp de gmail
 import smtplib 
 import subprocess
 
